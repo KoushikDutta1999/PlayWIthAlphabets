@@ -1,0 +1,19 @@
+body {
+    background-image: url(abcd2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.shadow-lg {
+    box-shadow: 0 1rem 1rem rgba(0, 0, 0, .175) !important;
+}
+
+.container {
+    color: black;
+    text-emphasis-color: black;
+}
+
+.hide {
+    color: red;
+    font-size: smaller;
+}

@@ -1,0 +1,154 @@
+body {
+  background-image: url("./bg3.jpg");
+}
+#description {
+  /* font-weight: bold; */
+  font-size: 100px;
+}
+.log {
+  float: right;
+  margin-right: 30px;
+  margin-top: 30px;
+}
+#logo {
+  height: 110px;
+}
+.buto {
+  margin: 4px 6px;
+  padding: 15px 25px;
+  /* border-radius: 20px; */
+  font-size: 55px;
+  font-weight: bold;
+  width: 8rem;
+  height: 5rem;
+}
+.A {
+  color: #fff;
+  background-color: #11c420;
+  border-color: #11c420;
+}
+.B {
+  color: rgb(255, 255, 255);
+  background-color: #e2d304;
+  border-color: #e2d304;
+}
+.C {
+  color: rgb(255, 255, 255);
+  background-color: #e25504;
+  border-color: #e25504;
+}
+.D {
+  color: rgb(255, 255, 255);
+  background-color: #e20373;
+  border-color: #e20373;
+}
+.E {
+  color: rgb(255, 255, 255);
+  background-color: #7e04e2;
+  border-color: #7e04e2;
+}
+.F {
+  color: rgb(255, 255, 255);
+  background-color: #0404e2;
+  border-color: #0404e2;
+}
+.G {
+  color: rgb(255, 255, 255);
+  background-color: #04e204;
+  border-color: #04e204;
+}
+.H {
+  color: rgb(255, 255, 255);
+  background-color: #04e2e2;
+  border-color: #04e2e2;
+}
+.I {
+  color: rgb(255, 255, 255);
+  background-color: #e2e204;
+  border-color: #e2e204;
+}
+.J {
+  color: rgb(255, 255, 255);
+  background-color: #75d309;
+  border-color: #75d309;
+}
+.K {
+  color: rgb(255, 255, 255);
+  background-color: #d3d309;
+  border-color: #d3d309;
+}
+.L {
+  color: rgb(255, 255, 255);
+  background-color: #d30309;
+  border-color: #d30309;
+}
+.M {
+  color: rgb(255, 255, 255);
+  background-color: #d309d3;
+  border-color: #d309d3;
+}
+.N {
+  color: rgb(255, 255, 255);
+  background-color: #d30975;
+  border-color: #d30975;
+}
+.O {
+  color: rgb(255, 255, 255);
+  background-color: #aa00aa;
+  border-color: #aa00aa;
+}
+.P {
+  color: rgb(255, 255, 255);
+  background-color: #aa0055;
+  border-color: #aa0055;
+}
+.Q {
+  color: rgb(255, 255, 255);
+  background-color: #aa5500;
+  border-color: #aa5500;
+}
+.R {
+  color: rgb(255, 255, 255);
+  background-color: #5500aa;
+  border-color: #5500aa;
+}
+.S {
+  color: rgb(255, 255, 255);
+  background-color: #550055;
+  border-color: #550055;
+}
+.T {
+  color: rgb(255, 255, 255);
+  background-color: #adad0a;
+  border-color: #adad0a;
+}
+.U {
+  color: rgb(255, 255, 255);
+  background-color: #0055aa;
+  border-color: #0055aa;
+}
+.V {
+  color: rgb(255, 255, 255);
+  background-color: #005555;
+  border-color: #005555;
+}
+.W {
+  color: rgb(255, 255, 255);
+  background-color: #555555;
+  border-color: #555555;
+}
+.X {
+  color: rgb(255, 255, 255);
+  background-color: #55aa00;
+  border-color: #55aa00;
+}
+.Y {
+  color: rgb(255, 255, 255);
+  background-color: #55aa55;
+  border-color: #55aa55;
+}
+.Z {
+  color: rgb(255, 255, 255);
+  background-color: #00aa55;
+  border-color: #00aa55;
+}
